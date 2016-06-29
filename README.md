@@ -1,4 +1,4 @@
-# chatter-bot
+# chatter-bot-ar
 
 A simple telegram-bot wtitten in LUA 
 
